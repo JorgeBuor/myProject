@@ -1,0 +1,56 @@
+======================================
+ CONFIGURACIÓN DEL PROYECTO
+======================================
+
+1. INFORMACIÓN GENERAL
+----------------------
+Nombre del Proyecto: Sistema de Cálculo de Pagos
+Versión: 1.0
+Lenguaje: Python 3.x
+Repositorio: https://github.com/JorgeBuor/myProject
+Desarrollador: Jorge Burgos
+Fecha de Creación: Marzo 2025
+
+2. ESTRUCTURA DEL PROYECTO
+--------------------------
+myProject/                 # Directorio principal
+│── main.py                # Archivo principal con la lógica de cálculo
+│── readme.txt             # Descripción y documentación del proyecto
+│── docs/                  # Carpeta de documentación
+│   │── config.txt         # Configuración del proyecto
+│   └── index.txt          # Índice de documentación
+
+3. CONFIGURACIÓN DE CÁLCULO DE PAGOS
+------------------------------------
+Monto límite para financiamiento: $500,000
+
+Distribución de pagos:
+Si el monto total es mayor a $500,000:
+  - Inversión propia: 55%
+  - Préstamo bancario: 30%
+  - Crédito al fabricante: 15% (con 20% de interés)
+
+Si el monto total es menor o igual a $500,000:
+  - Inversión propia: 70%
+  - Crédito al fabricante: 30% (con 20% de interés)
+
+4. DEPENDENCIAS DEL PROYECTO
+----------------------------
+Python 3.x (Requerido)
+
+Librerías necesarias:
+  - os  (para manejo de archivos)
+  - sys (para argumentos en consola, si aplica)
+
+5. CONFIGURACIÓN DEL REPOSITORIO GIT
+------------------------------------
+Inicialización del repositorio: git init
+Rama principal: main
+Repositorio remoto: git remote add origin https://github.com/JorgeBuor/myProject.git
+Subida de cambios: git push -u origin main
+
+======================================
+Notas:
+- Este archivo de configuración debe mantenerse actualizado con cualquier cambio en las reglas de cálculo o estructura del proyecto.
+- Se recomienda usar Git para el control de versiones y evitar cambios no documentados en el código.
+======================================
