@@ -7,7 +7,7 @@ if c > 500000:
     e = c * 0.3
     ll = c - (h+e)
     C = ll * 0.2
-    a = ll + c
+    a = ll + C
     print(f'El monto total de la compra es de: {c}')
     print(f'La inversión de la empresa debe ser de: {h}')
     print(f'El prestamo del banco debe ser de: {e}')
