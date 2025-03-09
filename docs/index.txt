@@ -1,0 +1,40 @@
+======================================
+ ÍNDICE DEL PROYECTO
+======================================
+
+1. INTRODUCCIÓN
+----------------------
+  - Descripción del Proyecto
+  - Objetivos del Sistema
+
+2. ESTRUCTURA DEL PROYECTO
+----------------------
+  - Archivos Principales
+  - Directorios y Contenido
+
+3. CONFIGURACIÓN DEL PROYECTO
+----------------------
+  - Dependencias Requeridas
+  - Configuración de Parámetros
+
+4. USO DEL SISTEMA
+----------------------
+  - Ejecución del Programa
+  - Casos de Uso
+
+5. CONTROL DE VERSIONES (GIT)
+----------------------
+  - Inicialización del Repositorio
+  - Gestión de Ramas
+  - Subida de Cambios a GitHub
+
+6. DOCUMENTACIÓN RELACIONADA
+----------------------
+  - README.txt - Descripción General
+  - config.txt - Configuración del Proyecto
+
+======================================
+Notas:
+- Este archivo `index.txt` sirve como guía para la organización del proyecto.
+- Se recomienda mantenerlo actualizado con cada nueva funcionalidad o modificación.
+======================================
